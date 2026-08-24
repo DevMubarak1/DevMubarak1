@@ -1,7 +1,7 @@
 <div align="center">
 
-# ðŸ’« Hey there, I'm Mubarak Raji! ðŸ‘‹
-### **Backend & Full-Stack Engineer Â· Systems & ERP Architect Â· Hardware & Edge AI Hacker**
+# 💫 Hey there, I'm Mubarak Raji! 👋
+### **Backend & Full-Stack Engineer · Systems & ERP Architect · Hardware & Edge AI Hacker**
 
 <p align="center">
   <a href="https://devmubarak.me">
@@ -22,20 +22,20 @@
 
 </div>
 
-## ðŸ’« About Me:
+## 💫 About Me:
 
-- ðŸ”­ **Iâ€™m currently working on:** Architecting high-concurrency ERP systems, idempotent checkout pipelines, and distributed inventory workflows at **Vital Vida** (Fulani Hair).
-- ðŸš€ **Founder & Lead Engineer at:** **[PullUp](https://pullup.ng)** â€” Live event discovery, ticketing & wallet platform in Nigeria with instant QR verification and automated revenue splits.
-- ðŸ‘¯ **Iâ€™m looking to collaborate on:** High-scale backend architectures, distributed microservices, Edge AI / IoT products, and open-source developer tooling.
-- ðŸ¤ **Iâ€™m looking for help with:** Advanced Edge AI acceleration, distributed systems consensus, and scaling cloud infrastructure globally.
-- ðŸŒ± **Iâ€™m currently learning & mastering:** Systems programming with **Rust**, high-throughput **Go** services, and edge computing on **Hailo AI HAT+ / Raspberry Pi 5**.
-- ðŸ’¬ **Ask me about:** Node.js, Next.js, Python, Frappe Framework / ERPNext, PostgreSQL & Supabase, Idempotent APIs, IoT / Raspberry Pi / Edge AI (YOLOv8 + OpenCV), and Payment Gateway Integrations (Paystack, Flutterwave).
-- ðŸ† **Hackathon Champion:** 1st Place Winner â€” **Vibranium Valley Ã— PowerTech Grand Challenge** (IoT edge sensors & cloud analytics for power grid monitoring).
-- âš¡ **Fun fact:** I love Elon Musk, and if a system processes millions of transactions or a board blinks and computes at the edge â€” I'm already hacking on it!
+- 🔭 **I'm currently working on:** Architecting high-concurrency ERP systems, idempotent checkout pipelines, and distributed inventory workflows at **Vital Vida** (Fulani Hair).
+- 🚀 **Founder & Lead Engineer at:** **[PullUp](https://pullup.ng)** - Live event discovery, ticketing & wallet platform in Nigeria with instant QR verification and automated revenue splits.
+- 👯 **I'm looking to collaborate on:** High-scale backend architectures, distributed microservices, Edge AI / IoT products, and open-source developer tooling.
+- 🤝 **I'm looking for help with:** Advanced Edge AI acceleration, distributed systems consensus, and scaling cloud infrastructure globally.
+- 🌱 **I'm currently learning & mastering:** Systems programming with **Rust**, high-throughput **Go** services, and edge computing on **Hailo AI HAT+ / Raspberry Pi 5**.
+- 💬 **Ask me about:** Node.js, Next.js, Python, Frappe Framework / ERPNext, PostgreSQL & Supabase, Idempotent APIs, IoT / Raspberry Pi / Edge AI (YOLOv8 + OpenCV), and Payment Gateway Integrations (Paystack, Flutterwave).
+- 🏆 **Hackathon Champion:** 1st Place Winner - **Vibranium Valley x PowerTech Grand Challenge** (IoT edge sensors & cloud analytics for power grid monitoring).
+- ⚡ **Fun fact:** I love Elon Musk, and if a system processes millions of transactions or a board blinks and computes at the edge - I'm already hacking on it!
 
 ---
 
-## ðŸŒ Socials:
+## 🌐 Socials:
 
 <p align="left">
   <a href="https://devmubarak.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
@@ -48,7 +48,7 @@
 
 ---
 
-## ðŸ’» Tech Stack:
+## 💻 Tech Stack:
 
 <p align="left">
   <!-- Languages -->
@@ -105,21 +105,21 @@
 
 ---
 
-## ðŸš€ Featured Projects:
+## 🚀 Featured Projects:
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **ðŸŽŸï¸ PullUp** | Live event ticketing, attendee QR validation & organizer revenue split platform | `Next.js` `TypeScript` `Supabase` `Paystack` | [Live](https://pullup.ng) |
-| **ðŸ¢ Vital Vida (Fulani Hair ERP)** | High-concurrency enterprise ERP & idempotent checkout API infrastructure | `Frappe` `ERPNext` `Python` `MariaDB` | [Live](https://fulanihairsecrets.com) |
-| **âœ‚ï¸ AnyShape** | Privacy-first browser image cropper with 16+ presets & custom SVG vectors | `Next.js` `TypeScript` `Canvas API` | [Live](https://anyshape.devmubarak.me) |
-| **âš¡ Circuit Weaver** | Digital logic puzzle laboratory for simulating interactive real gates & circuits | `Next.js` `TypeScript` `Logic Engine` | [Live](https://circuitweaver.devmubarak.me) |
-| **ðŸ› ï¸ DevTriage** | Python CLI triage tool translating crash stacks into reproducible bug reports | `Python` `Node.js` `CLI` | [GitHub](https://github.com/DevMubarak1/Devtriage) |
-| **ðŸ’³ Flutterwave Skills** | Open-source agent skill collection for autonomous Flutterwave integrations | `TypeScript` `AI Agents` `Next.js` | [Live](https://flutterwave.devmubarak.me) |
-| **ðŸ“ˆ RateRadar** | Real-time browser extension monitoring currency & crypto exchange rates | `JavaScript` `React` `Chrome API` | [GitHub](https://github.com/DevMubarak1/RateRadar-Extension) |
+| **🎟️ PullUp** | Live event ticketing, attendee QR validation & organizer revenue split platform | `Next.js` `TypeScript` `Supabase` `Paystack` | [Live](https://pullup.ng) |
+| **🏢 Vital Vida (Fulani Hair ERP)** | High-concurrency enterprise ERP & idempotent checkout API infrastructure | `Frappe` `ERPNext` `Python` `MariaDB` | [Live](https://fulanihairsecrets.com) |
+| **✂️ AnyShape** | Privacy-first browser image cropper with 16+ presets & custom SVG vectors | `Next.js` `TypeScript` `Canvas API` | [Live](https://anyshape.devmubarak.me) |
+| **⚡ Circuit Weaver** | Digital logic puzzle laboratory for simulating interactive real gates & circuits | `Next.js` `TypeScript` `Logic Engine` | [Live](https://circuitweaver.devmubarak.me) |
+| **🛠️ DevTriage** | Python CLI triage tool translating crash stacks into reproducible bug reports | `Python` `Node.js` `CLI` | [GitHub](https://github.com/DevMubarak1/Devtriage) |
+| **💳 Flutterwave Skills** | Open-source agent skill collection for autonomous Flutterwave integrations | `TypeScript` `AI Agents` `Next.js` | [Live](https://flutterwave.devmubarak.me) |
+| **📈 RateRadar** | Real-time browser extension monitoring currency & crypto exchange rates | `JavaScript` `React` `Chrome API` | [GitHub](https://github.com/DevMubarak1/RateRadar-Extension) |
 
 ---
 
-## ðŸ“Š GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevMubarak1&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" alt="Mubarak's GitHub Stats" width="49%" />
@@ -133,5 +133,5 @@
 ---
 
 <div align="center">
-  <sub>Built with â¤ï¸ by <a href="https://devmubarak.me">Mubarak Raji Babatunde</a>. Star â­ my repositories if you find them helpful!</sub>
+  <sub>Built with ❤️ by <a href="https://devmubarak.me">Mubarak Raji Babatunde</a>. Star ⭐ my repositories if you find them helpful!</sub>
 </div>
