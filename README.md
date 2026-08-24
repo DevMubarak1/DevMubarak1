@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://devmubarak.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+%26+Full-Stack+Engineer;Systems+%26+ERP+Architect+(Frappe+%2F+ERPNext);Founder+%40+PullUp.ng;Edge+AI+%26+IoT+Hardware+Builder;1st+Place+Hackathon+Champion;Building+Scalable+Production+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+%26+Full-Stack+Engineer;Freelance+Web+%26+Systems+Developer;Systems+%26+ERP+Architect+(Frappe+%2F+ERPNext);Founder+%40+PullUp.ng;Edge+AI+%26+IoT+Hardware+Builder;1st+Place+Hackathon+Champion;Building+Scalable+Production+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,6 +25,7 @@
 ## 💫 About Me:
 
 - 🔭 **I'm currently working on:** Architecting high-concurrency ERP systems, idempotent checkout pipelines, and distributed inventory workflows at **Vital Vida** (Fulani Hair).
+- 💼 **Freelance & Client Engineering:** Building fast, conversion-optimized commercial web platforms, e-commerce stores, and booking engines for businesses worldwide (e.g. **TopzyCut**, **Perfect Skin Industry**).
 - 🚀 **Founder & Lead Engineer at:** **[PullUp](https://pullup.ng)** - Live event discovery, ticketing & wallet platform in Nigeria with instant QR verification and automated revenue splits.
 - 👯 **I'm looking to collaborate on:** High-scale backend architectures, distributed microservices, Edge AI / IoT products, and open-source developer tooling.
 - 🤝 **I'm looking for help with:** Advanced Edge AI acceleration, distributed systems consensus, and scaling cloud infrastructure globally.
@@ -105,12 +106,19 @@
 
 ---
 
-## 🚀 Featured Projects:
+## 🚀 Featured & Freelance Projects:
 
+### 💼 Freelance & Client Platforms
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **💈 TopzyCut Hair Studio** | High-end grooming & hair salon booking platform with real-time appointment scheduling & dynamic catalog | `Next.js` `TypeScript` `Tailwind CSS` `REST API` | [Live Site](https://topzycuthairstudio.com/) |
+| **✨ Perfect Skin Industry** | Custom skincare e-commerce platform with automated checkout, payment gateway & inventory showcase | `Next.js` `TypeScript` `Tailwind CSS` `Paystack` | [Live Site](https://perfectskinindustry.shop) |
+| **🏢 Vital Vida (Fulani Hair ERP)** | Enterprise ERPNext & Frappe backend infrastructure with idempotent checkout APIs & inventory management | `Frappe` `ERPNext` `Python` `MariaDB` | [Live Site](https://fulanihairsecrets.com) |
+
+### 🛠️ Startups & Open Source Tools
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | **🎟️ PullUp** | Live event ticketing, attendee QR validation & organizer revenue split platform | `Next.js` `TypeScript` `Supabase` `Paystack` | [Live](https://pullup.ng) |
-| **🏢 Vital Vida (Fulani Hair ERP)** | High-concurrency enterprise ERP & idempotent checkout API infrastructure | `Frappe` `ERPNext` `Python` `MariaDB` | [Live](https://fulanihairsecrets.com) |
 | **✂️ AnyShape** | Privacy-first browser image cropper with 16+ presets & custom SVG vectors | `Next.js` `TypeScript` `Canvas API` | [Live](https://anyshape.devmubarak.me) |
 | **⚡ Circuit Weaver** | Digital logic puzzle laboratory for simulating interactive real gates & circuits | `Next.js` `TypeScript` `Logic Engine` | [Live](https://circuitweaver.devmubarak.me) |
 | **🛠️ DevTriage** | Python CLI triage tool translating crash stacks into reproducible bug reports | `Python` `Node.js` `CLI` | [GitHub](https://github.com/DevMubarak1/Devtriage) |
@@ -122,16 +130,18 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMubarak1&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" alt="Mubarak's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMubarak1&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevMubarak1&theme=tokyonight&show_icons=true&hide_border=false&border_radius=8&count_private=true" alt="Mubarak's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevMubarak1&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevMubarak1&theme=tokyonight&border_radius=8&date_format=M%20j%2C%20Y" alt="GitHub Streak" width="98%" />
+  <a href="https://github.com/DevMubarak1?tab=followers"><img src="https://img.shields.io/github/followers/DevMubarak1?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="Followers" /></a>
+  <a href="https://github.com/DevMubarak1?tab=repositories"><img src="https://img.shields.io/badge/Contributions-Active%20Builder-38BDF8?style=for-the-badge&logo=github" alt="Contributions" /></a>
+  <img src="https://komarev.com/ghpvc/?username=DevMubarak1&style=for-the-badge&color=0089FF" alt="Profile Views" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://devmubarak.me">Mubarak Raji Babatunde</a>. Star ⭐ my repositories if you find them helpful!</sub>
+  <sub>Built with ❤️ by <a href="https://devmubarak.me">Mubarak Raji Babatunde</a>. Available for freelance & engineering roles!</sub>
 </div>
