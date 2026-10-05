@@ -130,7 +130,7 @@
 ## 📊 GitHub Stats & Activity:
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevMubarak1&theme=tokyonight&show_icons=true&hide_border=false&border_radius=8" alt="Mubarak's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevMubarak1&theme=tokyonight&show_icons=true&hide_border=false&border_radius=8&include_all_commits=true&count_private=true" alt="Mubarak's GitHub Stats" width="49%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevMubarak1&theme=tokyonight&layout=compact&hide_border=false&border_radius=8" alt="Top Languages" width="49%" />
 </p>
 
