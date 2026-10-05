@@ -16,6 +16,7 @@
   <a href="https://youtube.com/@dev.mubarak?si=q2mqGKLXtJXvsm9u"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/dev.mubarak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:rmbabatunde123@gmail.com"><img src="https://img.shields.io/badge/Email-rmbabatunde123-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sponsors/DevMubarak1"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor DevMubarak1 on GitHub" /></a>
 </p>
 
 ---
@@ -141,6 +142,7 @@
 <p align="center">
   <a href="https://github.com/DevMubarak1?tab=followers"><img src="https://img.shields.io/github/followers/DevMubarak1?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="Followers" /></a>
   <a href="https://github.com/DevMubarak1?tab=repositories"><img src="https://img.shields.io/badge/Contributions-Active%20Builder-38BDF8?style=for-the-badge&logo=github" alt="Contributions" /></a>
+  <a href="https://github.com/sponsors/DevMubarak1"><img src="https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=DevMubarak1&style=for-the-badge&color=0089FF" alt="Profile Views" />
 </p>
 
